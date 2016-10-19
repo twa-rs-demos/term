@@ -28,3 +28,8 @@
   - series
   
   - parallel
+
+## Scrum
+```
+产品负责人 Scrum主管 开发团队 Scrum团队 Scrum会议 燃尽图 产品订单 冲刺订单 冲刺
+```
