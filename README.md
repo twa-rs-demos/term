@@ -44,3 +44,17 @@
 * post posts
 * comments comments
 
+## 一期源码权限控制逻辑学习
+
+* 权限
+* 角色
+    - 管理员
+    - 学生
+* role
+    - 1
+    - NULL
+    - 9
+* 角色与API关系
+    - checkSession
+    - JumpControl
+* 添加新的权限
