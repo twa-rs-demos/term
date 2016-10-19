@@ -39,3 +39,8 @@
 
 ## nodebb用户评论的数据结构
 
+* 数据结构
+* topic topics
+* post posts
+* comments comments
+
