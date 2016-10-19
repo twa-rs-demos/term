@@ -18,3 +18,13 @@
   - Small
   
   - Testable
+  
+## 学习Async
+
+1. Async
+
+  - waterfall
+  
+  - series
+  
+  - parallel
