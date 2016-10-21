@@ -69,3 +69,18 @@
 
 4. 客户开发人员
 
+##第一次Retro
+
+１．流程
+
+  - 宣誓
+  - 安全度
+  
+２．分栏
+
+  - Well
+  - LessWell
+  - Puzzle
+  - suggestion
+
+
