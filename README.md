@@ -90,3 +90,10 @@
 3. 角色  -> 黄色
 4. 描述  -> 蓝色
 
+## 完成一个可以运行的NodeBB插件MVP
+
+1. plugin
+2. MVP
+3. hook，fireHook
+4. action，filter
+
